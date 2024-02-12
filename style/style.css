@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: 'Arial';
+}
+
+.subtitulo-hoje {
+    color: darkred;
+}
+
+.subtitulo-amanha {
+    color: darkblue;
+}
+
+body a {
+    text-decoration: none;
+}
+
+.estados {
+    display: flex;
+    color: seagreen;
+}
+
+body p {
+    font-size: 20px;
+}
